@@ -1,5 +1,5 @@
-##Exemplar: Identifying stakeholders
-##Introduction
+## Exemplar: Identifying stakeholders
+## Introduction
 In the exercise Identifying stakeholders, you were tasked with identifying the key stakeholders to interview for the sales data analysis project.
 
 More specifically, you were asked to:
@@ -10,12 +10,12 @@ Write a list of 3 questions that you will ask each stakeholder that could help d
 
 This reading presents one version of the expected outcome. Your answer may differ but still be correct.
 
-###Step 1: Understand the context
+### Step 1: Understand the context
 In the first part of the exercise, your task was to read the case study carefully to understand the context and goals. An example of an acceptable answer for this is:
 
 The primary objective of the analysis is to analyze the sales data to drive new marketing campaigns and improve the company's market share. To do this effectively, a full understanding of the business context and the challenges the company faces is required. In addition, familiarity with the stakeholder’s role and duties is essential.
 
-###Step 2: Identify the key stakeholders
+### Step 2: Identify the key stakeholders
 In this step, you were asked to identify and list the key stakeholders that you think should be interviewed and give the reason you selected them. Then you were asked to classify the chosen stakeholders by the level of influence and interest each might have in the sales data analysis project. 3 examples of the type of work that you could have submitted for this step of the exercise are presented below.
 
 Key stakeholder: Sales Manager - Kane
@@ -39,7 +39,7 @@ Level of interest: High—Ricci's high level of interest in the project comes fr
 
 Reason for selection: Directly involved in customer satisfaction and feedback, Ricci is an important stakeholder in the sales data analysis project because of her role in ensuring customer satisfaction. Ricci’s understanding of customer complaints, feedback, and preferences can provide valuable insights into areas where the company can improve its products and services. These insights can help the data analyst identify growth opportunities and inform future sales and marketing strategies.
 
-###Step 3: Prepare interview questions
+### Step 3: Prepare interview questions
 Based on the stakeholders selected, you needed to write a list of 3 questions you would prepare to ask each stakeholder. The questions should steer the data analysis toward achieving the project goals. Below are some examples of questions you could create for this part of the exercise.
 
 Renee (Marketing Director)
@@ -75,5 +75,5 @@ How do you segment customers in terms of their preferences and needs, and what a
 
 What types of data and insights would be most valuable to you for improving customer satisfaction and maintaining a strong relationship with the company's customer base?
 
-###Conclusion
+### Conclusion
 You should now have a better understanding of identifying stakeholders to gather relevant insights. By understanding the high-level skill of stakeholder analysis, you can more effectively navigate complex business environments. Preparing targeted interview questions allows you to gather specific information that is actionable and aligned with a project’s goals. Stakeholder analysis can help you gather valuable insights that can inform your data analysis, leading to relevant insights that can be used by businesses to make strategic decisions. 
